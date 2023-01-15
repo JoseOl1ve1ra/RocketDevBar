@@ -31,8 +31,7 @@ o aluno tem total liberdade de estilizar o projeto com a proposta desejada
 >Banco de dados: N/A
 
 
-# clonar repositório
->git clone https://JoseOl1ve1ra/sds1-wmazoni
+
 
 # entrar na pasta do projeto front end web
 >front-web
